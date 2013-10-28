@@ -11,6 +11,9 @@ namespace Minesweeper
         static void Main(string[] args)
         {
             Console.WriteLine("Developing minesweeper!");
+            Console.WriteLine("Developing minesweeper!");
+            Console.WriteLine("Developing minesweeper!");
+            Console.WriteLine("Developing minesweeper!");
             Console.ReadLine();
         }
     }
